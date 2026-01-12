@@ -2,7 +2,7 @@
 
 
 
-This repository contains Spring Framework assignments.
+This repository contains Spring Framework assignments, Task1 and Task2
 
 
 
