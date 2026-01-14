@@ -58,5 +58,17 @@ The project demonstrates:
 ![GET All](screenshots/get-all.png)
 ![H2 Console](screenshots/h2-console.png)
 
+## Database Query Execution
+
+The H2 in-memory database was accessed using the built-in console.
+
+Query:
+SHOW TABLES;
+
+Result:
+(screenshot below)
+![Database tables](screenshots/db_tables.png)
+
+
 
 
