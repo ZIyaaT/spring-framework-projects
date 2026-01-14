@@ -29,3 +29,11 @@ The user opens a web browser and navigates to `http://localhost:8080/`.
 
 **Expected Result:**  
 The application displays the text **HELLO** in the browser.
+
+## Application Execution
+
+### Application Running
+![Application running](screenshots/app_running.png)
+
+### Browser Output
+![Browser output](screenshots/browser_output.png)
