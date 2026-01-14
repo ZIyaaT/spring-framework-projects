@@ -1,16 +1,17 @@
-\# Spring Framework Projects
+# Spring Framework Projects
 
+This repository contains Spring Framework assignments.
 
+## Tasks
 
-This repository contains Spring Framework assignments, Task1 and Task2
+### Task 1 – Spring Boot Basics
+A simple Spring Boot application demonstrating:
+- Creating a Spring Boot project
+- Defining a controller
+- Handling HTTP GET requests
 
-
-
-\## Tasks
-
-\- Task1 – Spring Boot Basics
-
-\- Task2 – Spring MVC
-
-
-
+### Task 2 – Spring MVC
+A Spring MVC project demonstrating:
+- REST APIs
+- Controllers, services, repositories
+- Exception handling
