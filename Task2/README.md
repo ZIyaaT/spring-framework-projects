@@ -69,6 +69,21 @@ Result:
 (screenshot below)
 ![Database tables](screenshots/db_tables.png)
 
+## Use Cases and Functionalities
+
+### Create (POST)
+![POST](screenshots/post.png)
+
+### Read (GET)
+![GET](screenshots/get.png)
+
+### Update (PUT)
+![PUT](screenshots/put.png)
+
+### Delete (DELETE)
+![DELETE](screenshots/delete.png)
+
+
 
 
 
